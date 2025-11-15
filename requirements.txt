@@ -1,7 +1,7 @@
-Flask==3.0.3
+Flask==2.3.3
 Flask-Cors==4.0.0
 requests==2.31.0
-python-telegram-bot==20.7
-Pillow==10.0.1
-Werkzeug==3.0.2
-gunicorn
+python-telegram-bot==20.3
+Pillow==9.5.0
+Werkzeug==2.3.7
+gunicorn==21.2.0
